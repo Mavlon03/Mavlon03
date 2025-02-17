@@ -14,10 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mavlon03&style=flat-square" alt="Profile Views" />
 </p>
 
-## ⏱ WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mavlon03&theme=radical" alt="Mavlon's WakaTime Stats" />
-</p>
 
 ## 🛠 Tech Stack
 <p align="center">
