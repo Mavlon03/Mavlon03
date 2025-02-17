@@ -1,3 +1,7 @@
+Here's an updated version of your README that replaces the plain text list of programming languages and technologies with their respective icons. I've also added a **Profile Views** and **WakaTime Stats** section before showcasing your tech stack in icon format:
+
+---
+
 <h1 align="center">Hi there, I'm Mavlon Akmalov 👋</h1>
 
 <p align="center">
@@ -10,13 +14,31 @@
 - 📚 Always eager to learn and explore new technologies in the software development world.
 
 ## 🛠 Tech Stack
-- **Backend:** Java, Spring Boot, Hibernate, REST APIs  
-- **Database:** PostgreSQL, MySQL  
-- **Tools & Platforms:** IntelliJ IDEA, Docker, Git, Maven  
-- **Other:** Multithreading, Design Patterns  
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+</p>
 
 ## 📊 GitHub Stats
-![Mavlon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mavlon03&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mavlon03&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Mavlon's GitHub Stats" />
+</p>
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mavlon03&style=flat-square" alt="Profile Views" />
+</p>
+
+## ⏱ WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mavlon03&theme=radical" alt="Mavlon's WakaTime Stats" />
+</p>
 
 ## 🌱 I’m currently learning:
 - **Spring Boot** for building backend applications
@@ -34,9 +56,8 @@
 </p>
 
 ## 📞 Contact Me
-- 📧 Email: **akmalovmavlon5@gmail.com** *(or your actual email)*
+- 📧 Email: **akmalovmavlon5@gmail.com**
 - 📞 Phone: **+998 94 506 07 01**
 
 ## ⚡ Fun Fact
 💡 "Code is like humor. When you have to explain it, it’s bad!" 😆
-
