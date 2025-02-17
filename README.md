@@ -1,7 +1,3 @@
-Here's an updated version of your README that replaces the plain text list of programming languages and technologies with their respective icons. I've also added a **Profile Views** and **WakaTime Stats** section before showcasing your tech stack in icon format:
-
----
-
 <h1 align="center">Hi there, I'm Mavlon Akmalov 👋</h1>
 
 <p align="center">
@@ -12,6 +8,16 @@ Here's an updated version of your README that replaces the plain text list of pr
 - 👨‍💻 I'm a **Java Developer** passionate about building scalable and efficient applications.
 - 🎯 Currently focusing on **Spring Boot, PostgreSQL, and Telegram bot development**.
 - 📚 Always eager to learn and explore new technologies in the software development world.
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mavlon03&style=flat-square" alt="Profile Views" />
+</p>
+
+## ⏱ WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mavlon03&theme=radical" alt="Mavlon's WakaTime Stats" />
+</p>
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -30,17 +36,7 @@ Here's an updated version of your README that replaces the plain text list of pr
   <img src="https://github-readme-stats.vercel.app/api?username=Mavlon03&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Mavlon's GitHub Stats" />
 </p>
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mavlon03&style=flat-square" alt="Profile Views" />
-</p>
-
-## ⏱ WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mavlon03&theme=radical" alt="Mavlon's WakaTime Stats" />
-</p>
-
-## 🌱 I’m currently learning:
+## 🌱 I’m Currently Learning:
 - **Spring Boot** for building backend applications
 - **PostgreSQL** for working with relational databases
 - **Telegram Bot API** to create smart bots
@@ -58,6 +54,3 @@ Here's an updated version of your README that replaces the plain text list of pr
 ## 📞 Contact Me
 - 📧 Email: **akmalovmavlon5@gmail.com**
 - 📞 Phone: **+998 94 506 07 01**
-
-## ⚡ Fun Fact
-💡 "Code is like humor. When you have to explain it, it’s bad!" 😆
