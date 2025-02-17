@@ -13,7 +13,15 @@
 - **Backend:** Java, Spring Boot, Hibernate, REST APIs  
 - **Database:** PostgreSQL, MySQL  
 - **Tools & Platforms:** IntelliJ IDEA, Docker, Git, Maven  
-- **Other:** Multithreading, Design Patterns, Microservices  
+- **Other:** Multithreading, Design Patterns  
+
+## 📊 GitHub Stats
+![Mavlon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mavlon03&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 🌱 I’m currently learning:
+- **Spring Boot** for building backend applications
+- **PostgreSQL** for working with relational databases
+- **Telegram Bot API** to create smart bots
 
 ## 📫 Connect with Me
 <p align="left">
@@ -32,6 +40,3 @@
 ## ⚡ Fun Fact
 💡 "Code is like humor. When you have to explain it, it’s bad!" 😆
 
----
-
-Bu dizayn sizning profilingizni yanada jozibali va professional qiladi! Markdown formatida GitHub README uchun mos keladi. Agar o'zgartirish yoki qo'shimcha ma'lumot kerak bo'lsa, ayting! 🚀
