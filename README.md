@@ -34,7 +34,7 @@
 </p>
 
 ## 📞 Contact Me
-- 📧 Email: **mavlon03@gmail.com** *(or your actual email)*
+- 📧 Email: **akmalovmavlon5@gmail.com** *(or your actual email)*
 - 📞 Phone: **+998 94 506 07 01**
 
 ## ⚡ Fun Fact
