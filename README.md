@@ -27,7 +27,6 @@
 [![JWT Badge](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)]()
 
 ### Developer/Forums:
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)]()  
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)]()
 
 ### Databases:
@@ -45,7 +44,6 @@
 
 ### IDEs/Editors:
 [![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)]()  
-[![VS Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)]()
 
 ### Others:
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()  
